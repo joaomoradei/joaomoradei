@@ -7,8 +7,14 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 -->
 
-- 🔭 I’m currently working on some python automation projects
-- 🌱 I’m currently learning AWS and Shell Script
+I'm a computer engineer/back-end developer. I love programming, sci-fi, games and playing guitar.
+
+As a computer engineer I like to know how everything works, how they connect to each other and how it can be improved. I usually do that with apps, infrastructures, objects and even myself.
+
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="408" height="318" />
+
+- 👨🏻‍💻 I’m currently working on some python automation projects
+- 🚀 I’m currently learning AWS and Shell Script
 - 📫 How to reach me: joaomoradei@outlook.com
 
 
