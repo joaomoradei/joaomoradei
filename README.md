@@ -13,6 +13,8 @@ As a computer engineer I like to know how everything works, how they connect to 
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="408" height="318" />
 
+</br>
+
 - 👨🏻‍💻 I’m currently working on some python automation projects
 - 🚀 I’m currently learning AWS and Shell Script
 - 📫 How to reach me: joaomoradei@outlook.com
