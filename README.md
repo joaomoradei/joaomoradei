@@ -17,6 +17,8 @@ As a computer engineer I like to know how everything works, how they connect to 
 - 🚀 I’m currently learning AWS and Shell Script
 - 📫 How to reach me: joaomoradei@outlook.com
 
+</br>
+</br>
 
 📈 **My GitHub Stats:**
 
